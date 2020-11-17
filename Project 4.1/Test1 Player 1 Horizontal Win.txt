@@ -1,0 +1,81 @@
+PLEASE HAVE AUDIO ON!!!
+Player Vs Player, or Player Vs Compuer? (1 or 2): 1
+Enter Name for PLayer #1: Tim
+        Tim is O
+Enter Name for PLayer #2: Jimbo
+        Jimbo is X
+Do you wnat to choose who goes first (1) or Let the computer Choose (2): 2
+
+Jimbo is going first!
+
+
+   1   2   3
+ --------------
+A|   |   |   |
+ --------------
+B|   |   |   |
+ --------------
+C|   |   |   |
+ --------------
+Jimbo Please make a move (RowCol Ex: A3): a2
+
+   1   2   3
+ --------------
+A|   | X |   |
+ --------------
+B|   |   |   |
+ --------------
+C|   |   |   |
+ --------------
+Tim Please make a move (RowCol Ex: A3): b1
+
+   1   2   3
+ --------------
+A|   | X |   |
+ --------------
+B| O |   |   |
+ --------------
+C|   |   |   |
+ --------------
+Jimbo Please make a move (RowCol Ex: A3): c2
+
+   1   2   3
+ --------------
+A|   | X |   |
+ --------------
+B| O |   |   |
+ --------------
+C|   | X |   |
+ --------------
+Tim Please make a move (RowCol Ex: A3): b2
+
+   1   2   3
+ --------------
+A|   | X |   |
+ --------------
+B| O | O |   |
+ --------------
+C|   | X |   |
+ --------------
+Jimbo Please make a move (RowCol Ex: A3): c1
+
+   1   2   3
+ --------------
+A|   | X |   |
+ --------------
+B| O | O |   |
+ --------------
+C| X | X |   |
+ --------------
+Tim Please make a move (RowCol Ex: A3): b3
+
+   1   2   3
+ --------------
+A|   | X |   |
+ --------------
+B| O | O | O |
+ --------------
+C| X | X |   |
+ --------------
+Tim Won! GG!
+Would you like to play Again? (Y or N):

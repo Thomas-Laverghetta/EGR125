@@ -1,0 +1,111 @@
+PLEASE HAVE AUDIO ON!!!
+Player Vs Player, or Player Vs Compuer? (1 or 2): 1
+Enter Name for PLayer #1: Prof. Gordy
+        Prof. Gordy is O
+Enter Name for PLayer #2: Prof. Grimes
+        Prof. Grimes is X
+Do you wnat to choose who goes first (1) or Let the computer Choose (2): 2
+
+Prof. Grimes is going first!
+
+
+   1   2   3
+ --------------
+A|   |   |   |
+ --------------
+B|   |   |   |
+ --------------
+C|   |   |   |
+ --------------
+Prof. Grimes Please make a move (RowCol Ex: A3): a1
+
+   1   2   3
+ --------------
+A| X |   |   |
+ --------------
+B|   |   |   |
+ --------------
+C|   |   |   |
+ --------------
+Prof. Gordy Please make a move (RowCol Ex: A3): b2
+
+   1   2   3
+ --------------
+A| X |   |   |
+ --------------
+B|   | O |   |
+ --------------
+C|   |   |   |
+ --------------
+Prof. Grimes Please make a move (RowCol Ex: A3): b1
+
+   1   2   3
+ --------------
+A| X |   |   |
+ --------------
+B| X | O |   |
+ --------------
+C|   |   |   |
+ --------------
+Prof. Gordy Please make a move (RowCol Ex: A3): c1
+
+   1   2   3
+ --------------
+A| X |   |   |
+ --------------
+B| X | O |   |
+ --------------
+C| O |   |   |
+ --------------
+Prof. Grimes Please make a move (RowCol Ex: A3): a3
+
+   1   2   3
+ --------------
+A| X |   | X |
+ --------------
+B| X | O |   |
+ --------------
+C| O |   |   |
+ --------------
+Prof. Gordy Please make a move (RowCol Ex: A3): a2
+
+   1   2   3
+ --------------
+A| X | O | X |
+ --------------
+B| X | O |   |
+ --------------
+C| O |   |   |
+ --------------
+Prof. Grimes Please make a move (RowCol Ex: A3): c2
+
+   1   2   3
+ --------------
+A| X | O | X |
+ --------------
+B| X | O |   |
+ --------------
+C| O | X |   |
+ --------------
+Prof. Gordy Please make a move (RowCol Ex: A3): b3
+
+   1   2   3
+ --------------
+A| X | O | X |
+ --------------
+B| X | O | O |
+ --------------
+C| O | X |   |
+ --------------
+Prof. Grimes Please make a move (RowCol Ex: A3): c3
+
+   1   2   3
+ --------------
+A| X | O | X |
+ --------------
+B| X | O | O |
+ --------------
+C| O | X | X |
+ --------------
+The CAT Won! DRAW GG!
+Would you like to play Again? (Y or N):

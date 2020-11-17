@@ -1,0 +1,93 @@
+PLEASE HAVE AUDIO ON!!!
+Player Vs Player, or Player Vs Compuer? (1 or 2): 2
+Enter Name for PLayer #1: Morris
+        Morris is O
+        Computer is X
+Do you wnat to choose who goes first (1) or Let the computer Choose (2): 2
+
+Morris is going first!
+
+
+   1   2   3
+ --------------
+A|   |   |   |
+ --------------
+B|   |   |   |
+ --------------
+C|   |   |   |
+ --------------
+Morris Please make a move (RowCol Ex: A3): A2
+
+   1   2   3
+ --------------
+A|   | O |   |
+ --------------
+B|   |   |   |
+ --------------
+C|   |   |   |
+ --------------
+Computer's move: A1
+
+   1   2   3
+ --------------
+A| X | O |   |
+ --------------
+B|   |   |   |
+ --------------
+C|   |   |   |
+ --------------
+Morris Please make a move (RowCol Ex: A3): B2
+
+   1   2   3
+ --------------
+A| X | O |   |
+ --------------
+B|   | O |   |
+ --------------
+C|   |   |   |
+ --------------
+Computer's move: B3
+
+   1   2   3
+ --------------
+A| X | O |   |
+ --------------
+B|   | O | X |
+ --------------
+C|   |   |   |
+ --------------
+Morris Please make a move (RowCol Ex: A3): C1
+
+   1   2   3
+ --------------
+A| X | O |   |
+ --------------
+B|   | O | X |
+ --------------
+C| O |   |   |
+ --------------
+Computer's move: A3
+
+   1   2   3
+ --------------
+A| X | O | X |
+ --------------
+B|   | O | X |
+ --------------
+C| O |   |   |
+ --------------
+Morris Please make a move (RowCol Ex: A3): C2
+
+   1   2   3
+ --------------
+A| X | O | X |
+ --------------
+B|   | O | X |
+ --------------
+C| O | O |   |
+ --------------
+Morris Won! GG!
+Would you like to play Again? (Y or N): n
+
+Cool
+Press any key to continue . . .

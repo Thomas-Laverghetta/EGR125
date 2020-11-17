@@ -1,0 +1,69 @@
+PLEASE HAVE AUDIO ON!!!
+Player Vs Player, or Player Vs Compuer? (1 or 2): 1
+Enter Name for PLayer #1: Tom Lambo
+        Tom Lambo is O
+Enter Name for PLayer #2: Austin Moonpie
+        Austin Moonpie is X
+Do you wnat to choose who goes first (1) or Let the computer Choose (2): 1
+What person do you want first Player 1 or 2?1
+
+   1   2   3
+ --------------
+A|   |   |   |
+ --------------
+B|   |   |   |
+ --------------
+C|   |   |   |
+ --------------
+Tom Lambo Please make a move (RowCol Ex: A3): b2
+
+   1   2   3
+ --------------
+A|   |   |   |
+ --------------
+B|   | O |   |
+ --------------
+C|   |   |   |
+ --------------
+Austin Moonpie Please make a move (RowCol Ex: A3): c2
+
+   1   2   3
+ --------------
+A|   |   |   |
+ --------------
+B|   | O |   |
+ --------------
+C|   | X |   |
+ --------------
+Tom Lambo Please make a move (RowCol Ex: A3): a1
+
+   1   2   3
+ --------------
+A| O |   |   |
+ --------------
+B|   | O |   |
+ --------------
+C|   | X |   |
+ --------------
+Austin Moonpie Please make a move (RowCol Ex: A3): c1
+
+   1   2   3
+ --------------
+A| O |   |   |
+ --------------
+B|   | O |   |
+ --------------
+C| X | X |   |
+ --------------
+Tom Lambo Please make a move (RowCol Ex: A3): c3
+
+   1   2   3
+ --------------
+A| O |   |   |
+ --------------
+B|   | O |   |
+ --------------
+C| X | X | O |
+ --------------
+Tom Lambo Won! GG!
+Would you like to play Again? (Y or N):
